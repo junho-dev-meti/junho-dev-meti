@@ -1,4 +1,5 @@
 ## Hi there 👋
+Currently learning C++, Java, Node.js, Python in HUFS 🌱
 
 <!--
 **junho-dev-meti/junho-dev-meti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
